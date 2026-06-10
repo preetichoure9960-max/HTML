@@ -1,0 +1,19 @@
+<html>
+<html>
+<head>
+    <title>Color </title>
+</head>
+<body>
+
+    <h1 style="color:purple;">HTML</h1>
+
+    <p style="color:orange;">
+        Welcome to HTML Programming.
+    </p>
+
+    <p style="color:#00ff00;">
+        This text uses a HEX color code.
+    </p>
+
+</body>
+</html>
