@@ -3,9 +3,9 @@
     <title>HTML Learning Journey </title>
 </head>
 <body>
-  <h1> HTML Learning Journey</h1>
+  <h4> <b> HTML </b> Learning Journey</h4>
     <p>I am learning HTML.</p>
-      <p>HTML is important for Web Development.</p>
-      <p>I will become a Full Stack Developer.</p>
+      <p>HTML is important for<i> Web Development.</i></p>
+      <p>I will become a <u>Full Stack Developer.</u></p>
 </body>
 </html>
