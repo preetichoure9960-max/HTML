@@ -1,0 +1,15 @@
+<html>
+<html>
+<head>
+    <title>Colored Text</title>
+</head>
+<body>
+
+    <h1 style="color:red;">This is Red Text</h1>
+
+    <p style="color:blue;">This is Blue Text</p>
+
+    <p style="color:green;">This is Green Text</p>
+
+</body>
+</html>
